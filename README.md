@@ -113,7 +113,7 @@ Guided by **Dr. Mrinalini Rana**, Lovely Professional University
 ---
 
 ## 🔗 **Live Power BI Dashboard Link**
-👉 *Add link here*
+👉 *https://app.powerbi.com/view?r=eyJrIjoiODhlYWUxN2UtMDNmMi00Y2FiLTk1NjctODM4MzhmZDJkMGU1IiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D*
 
 ---
 
@@ -123,5 +123,5 @@ If you found this project useful, please ⭐ star the repository — it helps re
 ---
 
 ## 🌐 **Connect With Me**
-🔗 LinkedIn: *Add your profile link here*  
-📦 GitHub: *(This repository)*
+🔗 LinkedIn: *https://www.linkedin.com/in/rajsvmahendra/*  
+📦 GitHub: *https://github.com/rajsvmahendra*
