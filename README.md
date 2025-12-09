@@ -1,6 +1,6 @@
 <!-- PROJECT HEADER -->
 <p align="center">
-  <img src="assets/Home_Page.png" alt="Dashboard Preview" width="750"/>
+  <img src="assets/Home%20Page.png" alt="Dashboard Preview" width="750"/>
 </p>
 
 <h1 align="center">🍕 India QSR Insights 2025 — Growth & Nutrition Reality 🍔</h1>
@@ -103,12 +103,12 @@ Guided by **Dr. Mrinalini Rana**, Lovely Professional University
 ## 📸 **Dashboard Screenshots**
 
 | Home | Growth |
-|------|-------|
-| <img src="assets/Home_Page.png" width="400"/> | <img src="assets/Growth_Page.png" width="400"/> |
+|------|--------|
+| <img src="assets/Home%20Page.png" width="400"/> | <img src="assets/Growth%20Page.png" width="400"/> |
 
 | Nutrition | Insights |
 |-----------|----------|
-| <img src="assets/Nutrition_Page.png" width="400"/> | <img src="assets/Insights_Page.png" width="400"/> |
+| <img src="assets/Nutrition%20Page.png" width="400"/> | <img src="assets/Insights%20Page.png" width="400"/> |
 
 ---
 
@@ -125,4 +125,3 @@ If you found this project useful, please ⭐ star the repository — it helps re
 ## 🌐 **Connect With Me**
 🔗 LinkedIn: *Add your profile link here*  
 📦 GitHub: *(This repository)*
-
