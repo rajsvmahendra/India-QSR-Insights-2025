@@ -113,7 +113,7 @@ Guided by **Dr. Mrinalini Rana**, Lovely Professional University
 ---
 
 ## 🔗 **Live Power BI Dashboard Link**
-👉 *https://app.powerbi.com/view?r=eyJrIjoiODhlYWUxN2UtMDNmMi00Y2FiLTk1NjctODM4MzhmZDJkMGU1IiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D*
+👉 *https://app.powerbi.com/reportEmbed?reportId=b1ce72d4-8a82-453a-9e6f-e9a14fbc1ffa*
 
 ---
 
